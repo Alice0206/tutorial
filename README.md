@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/yanyun0206/test/_apis/build/status/Alice0206.tutorial?branchName=azure-pipeline)](https://dev.azure.com/yanyun0206/test/_build/latest?definitionId=10&branchName=azure-pipeline)
 # Python/Flask Tutorial for Visual Studio Code
 
 * This sample contains the completed program from the tutorial, make sure to visit the link: [Using Flask in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask). Intermediate steps are not included.
